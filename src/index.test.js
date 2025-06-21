@@ -1,5 +1,5 @@
 import Ship from "./modules/ship"
-
+/* eslint-disable */
 
 // Ship class tests
 describe('Testing ships of various sizes', () => {
